@@ -1,0 +1,1160 @@
+# depslib dependency file v1.0
+1655781411 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655781641 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\estetica.h
+
+1655705500 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\clientes.h
+
+1655779142 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655775076 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\consumos.h
+
+1655780215 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650414804 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\gotoxy.h
+
+1650414800 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655779860 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654908478 c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\menu.h
+
+1655774486 source:c:\users\pablo david cavallo\desktop\utn - técnico universitario en programación\utn - cursada\programación i y laboratorio i\trabajo práctico\tp final\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1655781641 source:c:\users\max\desktop\tp final\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655781641 c:\users\max\desktop\tp final\trabajo practico final\estetica.h
+
+1655705500 c:\users\max\desktop\tp final\trabajo practico final\clientes.h
+
+1655783779 source:c:\users\max\desktop\tp final\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655775076 c:\users\max\desktop\tp final\trabajo practico final\consumos.h
+
+1655781641 source:c:\users\max\desktop\tp final\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650414804 c:\users\max\desktop\tp final\trabajo practico final\gotoxy.h
+
+1650414800 source:c:\users\max\desktop\tp final\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655784863 source:c:\users\max\desktop\tp final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+
+1654908478 c:\users\max\desktop\tp final\trabajo practico final\menu.h
+
+1655784232 source:c:\users\max\desktop\tp final\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1655767240 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\estetica.h
+
+1655691100 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\clientes.h
+
+1655769378 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+
+1655760676 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\consumos.h
+
+1655767240 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\tp final laboratorio y programación 1\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\estetica.h
+
+1667790538 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\clientes.h
+
+1668703199 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1668703199 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\consumos.h
+	"Clientes.h"
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668746472 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\menu.h
+
+1668702875 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+
+1668746343 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1668746363 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1668741716 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\listas.h
+	"Consumos.h"
+
+1668732859 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1668776766 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1668746363 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1668772803 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\clientes.h
+
+1668776635 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\listas.h
+	"Consumos.h"
+
+1668703199 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\consumos.h
+	"Clientes.h"
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\estetica.h
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668776636 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1668772803 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\menu.h
+
+1668771516 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1668777205 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1668789963 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1668783977 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1668772803 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\clientes.h
+
+1668789962 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\listas.h
+	"Consumos.h"
+
+1668703199 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\consumos.h
+	"Clientes.h"
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\estetica.h
+
+1668771516 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1655767240 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668789963 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1668789962 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\menu.h
+
+1668788187 source:c:\users\usuario\desktop\utn\2do cuatrimestre\laboratorio y programacion 2\trabajo final 1er cuatrimenstre\trabajo practico final - 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669007516 source:c:\users\max\desktop\trabajo practico final - 2\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669006775 c:\users\max\desktop\trabajo practico final - 2\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1668872592 c:\users\max\desktop\trabajo practico final - 2\clientes.h
+
+1668789962 c:\users\max\desktop\trabajo practico final - 2\listas.h
+	"Consumos.h"
+
+1668703199 c:\users\max\desktop\trabajo practico final - 2\consumos.h
+	"Clientes.h"
+
+1669006341 source:c:\users\max\desktop\trabajo practico final - 2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\max\desktop\trabajo practico final - 2\estetica.h
+
+1668771516 source:c:\users\max\desktop\trabajo practico final - 2\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1655767240 source:c:\users\max\desktop\trabajo practico final - 2\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\trabajo practico final - 2\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\trabajo practico final - 2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668976051 source:c:\users\max\desktop\trabajo practico final - 2\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669007535 source:c:\users\max\desktop\trabajo practico final - 2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1654894078 c:\users\max\desktop\trabajo practico final - 2\menu.h
+
+1669007516 source:c:\users\max\desktop\trabajo practico final - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1669006341 source:c:\users\usuario\desktop\nueva carpeta\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1655767240 c:\users\usuario\desktop\nueva carpeta\estetica.h
+
+1668872592 c:\users\usuario\desktop\nueva carpeta\clientes.h
+
+1668771516 source:c:\users\usuario\desktop\nueva carpeta\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1668703199 c:\users\usuario\desktop\nueva carpeta\consumos.h
+	"Clientes.h"
+
+1655767240 source:c:\users\usuario\desktop\nueva carpeta\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\nueva carpeta\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\nueva carpeta\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668976051 source:c:\users\usuario\desktop\nueva carpeta\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1668789962 c:\users\usuario\desktop\nueva carpeta\listas.h
+	"Consumos.h"
+
+1669057147 source:c:\users\usuario\desktop\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\nueva carpeta\menu.h
+
+1669056699 c:\users\usuario\desktop\nueva carpeta\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1669064097 source:c:\users\usuario\desktop\nueva carpeta\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669064448 source:c:\users\usuario\desktop\nueva carpeta\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669088899 source:c:\users\max\desktop\tp labo 2 casi casi final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1669071993 c:\users\max\desktop\tp labo 2 casi casi final\estetica.h
+
+1668872592 c:\users\max\desktop\tp labo 2 casi casi final\clientes.h
+
+1669084601 source:c:\users\max\desktop\tp labo 2 casi casi final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669071825 c:\users\max\desktop\tp labo 2 casi casi final\consumos.h
+	"Clientes.h"
+
+1669087330 source:c:\users\max\desktop\tp labo 2 casi casi final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\tp labo 2 casi casi final\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\tp labo 2 casi casi final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669088375 source:c:\users\max\desktop\tp labo 2 casi casi final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669088384 c:\users\max\desktop\tp labo 2 casi casi final\listas.h
+	"Consumos.h"
+
+1669088409 source:c:\users\max\desktop\tp labo 2 casi casi final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1654894078 c:\users\max\desktop\tp labo 2 casi casi final\menu.h
+
+1669086159 c:\users\max\desktop\tp labo 2 casi casi final\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1669088466 source:c:\users\max\desktop\tp labo 2 casi casi final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669086159 source:c:\users\max\desktop\tp labo 2 casi casi final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669129820 source:c:\users\usuario\desktop\nueva carpeta (2)\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1669071993 c:\users\usuario\desktop\nueva carpeta (2)\estetica.h
+
+1669136421 c:\users\usuario\desktop\nueva carpeta (2)\clientes.h
+
+1669136421 source:c:\users\usuario\desktop\nueva carpeta (2)\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669136421 c:\users\usuario\desktop\nueva carpeta (2)\consumos.h
+	"Clientes.h"
+
+1669087330 source:c:\users\usuario\desktop\nueva carpeta (2)\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\nueva carpeta (2)\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\nueva carpeta (2)\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669129410 source:c:\users\usuario\desktop\nueva carpeta (2)\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669088384 c:\users\usuario\desktop\nueva carpeta (2)\listas.h
+	"Consumos.h"
+
+1669130075 source:c:\users\usuario\desktop\nueva carpeta (2)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\nueva carpeta (2)\menu.h
+
+1669086159 c:\users\usuario\desktop\nueva carpeta (2)\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1669089280 source:c:\users\usuario\desktop\nueva carpeta (2)\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669136421 source:c:\users\usuario\desktop\nueva carpeta (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1669089280 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669086159 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\arbol.h
+	"Clientes.h"
+	"listas.h"
+
+1669136421 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\clientes.h
+
+1669088384 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\listas.h
+	"Consumos.h"
+
+1669136421 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\consumos.h
+	"Clientes.h"
+
+1669129820 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+
+1669071993 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\estetica.h
+
+1669136421 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669087330 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\gotoxy.h
+
+1650400400 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669129410 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669138572 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	"arbol.h"
+
+1654894078 c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\menu.h
+
+1669130075 source:c:\users\usuario\desktop\casi ultimo 22-11-2022\casi ultimo 22-11-2022\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669160566 source:c:\users\max\desktop\casi ultimo 22-11-2022\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+	<windows.h>
+
+1669071993 c:\users\max\desktop\casi ultimo 22-11-2022\estetica.h
+
+1669160268 c:\users\max\desktop\casi ultimo 22-11-2022\clientes.h
+
+1669160268 source:c:\users\max\desktop\casi ultimo 22-11-2022\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669160268 c:\users\max\desktop\casi ultimo 22-11-2022\consumos.h
+	"Clientes.h"
+
+1669087330 source:c:\users\max\desktop\casi ultimo 22-11-2022\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\casi ultimo 22-11-2022\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\casi ultimo 22-11-2022\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669129410 source:c:\users\max\desktop\casi ultimo 22-11-2022\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669088384 c:\users\max\desktop\casi ultimo 22-11-2022\listas.h
+	"Consumos.h"
+
+1669160458 source:c:\users\max\desktop\casi ultimo 22-11-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	<string.h>
+	"arbol.h"
+
+1654894078 c:\users\max\desktop\casi ultimo 22-11-2022\menu.h
+
+1669160977 c:\users\max\desktop\casi ultimo 22-11-2022\arbol.h
+	"Clientes.h"
+	"listas.h"
+	<string.h>
+
+1669158372 source:c:\users\max\desktop\casi ultimo 22-11-2022\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669162022 source:c:\users\max\desktop\casi ultimo 22-11-2022\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669087330 source:c:\users\usuario\desktop\tp final\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\usuario\desktop\tp final\gotoxy.h
+
+1669071993 c:\users\usuario\desktop\tp final\estetica.h
+
+1650400400 source:c:\users\usuario\desktop\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669158372 source:c:\users\usuario\desktop\tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669198357 c:\users\usuario\desktop\tp final\clientes.h
+
+1669201467 c:\users\usuario\desktop\tp final\consumos.h
+	"Clientes.h"
+
+1654894078 c:\users\usuario\desktop\tp final\menu.h
+
+1669198357 c:\users\usuario\desktop\tp final\arbol.h
+	"Clientes.h"
+	"listas.h"
+	<string.h>
+
+1669088384 c:\users\usuario\desktop\tp final\listas.h
+	"Consumos.h"
+
+1669198357 source:c:\users\usuario\desktop\tp final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669198357 source:c:\users\usuario\desktop\tp final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+	<windows.h>
+
+1669201467 source:c:\users\usuario\desktop\tp final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669198357 source:c:\users\usuario\desktop\tp final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669198357 source:c:\users\usuario\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	<string.h>
+	"arbol.h"
+
+1669198357 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669198357 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\arbol.h
+	"Clientes.h"
+	"listas.h"
+	<string.h>
+
+1669198357 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\clientes.h
+
+1669088384 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\listas.h
+	"Consumos.h"
+
+1669201467 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\consumos.h
+	"Clientes.h"
+
+1669198357 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+	<windows.h>
+
+1669071993 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\estetica.h
+
+1669201467 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669087330 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\gotoxy.h
+
+1650400400 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669198357 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669198357 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	<string.h>
+	"arbol.h"
+
+1654894078 c:\users\max\desktop\tp final con comentarios\tp final con comentarios\menu.h
+
+1669158372 source:c:\users\max\desktop\tp final con comentarios\tp final con comentarios\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
+1669198358 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1669198358 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\arbol.h
+	"Clientes.h"
+	"listas.h"
+	<string.h>
+
+1669198358 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\clientes.h
+
+1669088386 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\listas.h
+	"Consumos.h"
+
+1669201468 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\consumos.h
+	"Clientes.h"
+
+1669198358 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estetica.h"
+	"Clientes.h"
+	<windows.h>
+
+1669071994 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\estetica.h
+
+1669235740 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Consumos.h"
+
+1669087332 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\estetica.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+	"Estetica.h"
+
+1650400404 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\gotoxy.h
+
+1650400400 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1669198358 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1669198358 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Menu.h"
+	"Consumos.h"
+	<string.h>
+	"arbol.h"
+
+1654894078 c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\menu.h
+
+1669158374 source:c:\users\user\desktop\tp final con comentarios\tp final laboratorio ii\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Estetica.h"
+	"Clientes.h"
+	"Consumos.h"
+	"Menu.h"
+	"arbol.h"
+
